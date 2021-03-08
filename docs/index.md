@@ -1,8 +1,8 @@
-# Welcome to TCS Notes
+# Welcome to ITC Notes
 
 ## Introduction
 
-This is a course note collection for **THEORETICAL COMPUTER SCIENCE (20sp)** at University of Chinese Academy of Sciences(UCAS), taught by [Guangyuan Li](https://lcs.ios.ac.cn/~ligy/).
+This is a course note collection for **INTRODUCTION OF THEORETICAL COMPUTATION (20sp)** at University of Chinese Academy of Sciences(UCAS), taught by [Guangyuan Li](https://lcs.ios.ac.cn/~ligy/).
 
 **Status**: Incompleted (2/11)
 
