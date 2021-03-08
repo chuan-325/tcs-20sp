@@ -1,6 +1,6 @@
 site_name: Introduction to Theory of Computation
-repo_url: https://github.com/chuan-325/tcs-20sp
-repo_name: chuan-325/tcs-20sp
+repo_url: https://github.com/chuan-325/itc-20sp
+repo_name: chuan-325/itc-20sp
 nav:
   - Home: index.md
   - Chapter 00 绪论: chap_00.md
